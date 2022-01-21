@@ -8,11 +8,11 @@
 - You can execute only to specific groups of models.
 
 ## Contributors
-- Angel Reina (@aleoreina) - Original Idea and coding
-- Johnny Herrera (@JohnnyHerrera99) - Helping to improve process of code syntax.
-- Daniel Diamon (@DanielK10) - He shows his code and we got some inspiration of improve.
-- Javier Gaspar (@Habyeh) - Spectator see some errors of syntax code.
+- Angel Reina ([@aleoreina](https://github.com/aleoreina "@aleoreina")) - Original Idea and coding
+- Johnny Herrera ([@JohnnyHerrera99](https://github.com/johnnyherrera99 "@JohnnyHerrera99")) - Helping to improve process of code syntax and ideas.
+- Daniel Diamon ([@DanielK10](https://github.com/danielk10 "@DanielK10")) - He shows his code how he did..  and we got some inspiration to improve and simplifed (our code).
+- Javier Gaspar ([@Habyeh](https://github.com/habyeh "@Habyeh")) - Spectator see some errors of syntax code.
 
 ## Gratitude
-- Ricardo Javier (@RicardoRien) - To be spectator with us.
+- Ricardo Javier ([@RicardoRien](https://github.com/ricardorien "@RicardoRien")) - To be spectator with us.
 
