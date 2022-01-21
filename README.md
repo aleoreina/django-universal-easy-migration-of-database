@@ -7,6 +7,9 @@
 - Migrate from models that are totally different to a new one's.
 - You can execute only to specific groups of models.
 
+## To improve
+- Table of reference of PK's for (FK and Many to many) - In Progress.
+
 ## Contributors
 - Angel Reina ([@aleoreina](https://github.com/aleoreina "@aleoreina")) - Original Idea and coding
 - Johnny Herrera ([@JohnnyHerrera99](https://github.com/johnnyherrera99 "@JohnnyHerrera99")) - Helping to improve process of code syntax and ideas.
