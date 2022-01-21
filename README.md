@@ -9,9 +9,10 @@
 
 ## Contributors
 - Angel Reina (@aleoreina) - Original Idea and coding
-- Johnny Herrera (@JohnnyHerrera9) - Helping to improve process of code syntax.
+- Johnny Herrera (@JohnnyHerrera99) - Helping to improve process of code syntax.
 - Daniel Diamon (@DanielK10) - He shows his code and we got some inspiration of improve.
 - Javier Gaspar (@Habyeh) - Spectator see some errors of syntax code.
 
 ## Gratitude
-- Ricardo Javier - To be spectator with us.
+- Ricardo Javier (@RicardoRien) - To be spectator with us.
+
